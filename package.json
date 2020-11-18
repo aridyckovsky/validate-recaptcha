@@ -1,7 +1,7 @@
 {
   "name": "validate-recaptcha-lambda",
   "version": "1.0.0",
-  "description": "",
+  "description": "Serverless validation of reCAPTCHA v3 responses via AWS Lambda",
   "main": "index.js",
   "dependencies": {
     "aws-sdk": "^2.795.0",
