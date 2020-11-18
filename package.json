@@ -1,5 +1,5 @@
 {
-  "name": "validate-recaptcha",
+  "name": "validate-recaptcha-lambda",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aridyckovsky/validate-recaptcha.git"
+    "url": "git+https://github.com/aridyckovsky/validate-recaptcha-lambda.git"
   },
   "author": "Ari Dyckovsky",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aridyckovsky/validate-recaptcha/issues"
+    "url": "https://github.com/aridyckovsky/validate-recaptcha-lambda/issues"
   },
-  "homepage": "https://github.com/aridyckovsky/validate-recaptcha#readme"
+  "homepage": "https://github.com/aridyckovsky/validate-recaptcha-lambda#readme"
 }
