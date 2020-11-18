@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@ourdailybread/aws-lambda-recaptcha": "^1.0.3"
+    "aws-sdk": "^2.795.0",
+    "body-parser": "^1.19.0",
+    "https": "^1.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   },
   "devDependencies": {},
   "scripts": {
