@@ -1,0 +1,23 @@
+{
+  "name": "validate-recaptcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@ourdailybread/aws-lambda-recaptcha": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aridyckovsky/validate-recaptcha.git"
+  },
+  "author": "Ari Dyckovsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aridyckovsky/validate-recaptcha/issues"
+  },
+  "homepage": "https://github.com/aridyckovsky/validate-recaptcha#readme"
+}
